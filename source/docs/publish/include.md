@@ -101,7 +101,7 @@ Checks general repository requirements:
 
 Checks that the repository declares a recognized open source license that GitHub can detect.
 
-GitHub detects the license from a `LICENSE` file at the repository root that matches a recognized SPDX template. Repositories with no license, or where GitHub classifies the license as `other`, will fail this check.
+GitHub detects the license from a license file in the repository root that it can recognize. Repositories with no license, or where GitHub classifies the license as `other`, will fail this check.
 
 ### lint jq
 
