@@ -8,7 +8,29 @@
 /img/demo.gif /assets/images/legacy/demo.gif
 
 /docs/configuration/basic /docs/use/configuration/basic
+/docs/configuration/basic/ /docs/use/configuration/basic
 /docs/issues /docs/help/issues
 
 # Used in old manifest.json
 /docs/configuration/start /docs/use/
+
+# Old /docs/setup/* structure (site reorg -> /docs/use/download)
+/docs/setup/download /docs/use/download/download
+/docs/setup/download/ /docs/use/download/download
+/docs/setup/prerequisites /docs/use/download/prerequisites
+/docs/setup/prerequisites/ /docs/use/download/prerequisites
+/docs/setup/getting_started /docs/use/
+
+# Old /docs/installation/* structure
+/docs/installation/prerequisites /docs/use/download/prerequisites
+/docs/installation/prerequisites/ /docs/use/download/prerequisites
+/docs/installation/prerequisite /docs/use/download/prerequisites
+/docs/installation/manual /docs/use/download/download
+/docs/installation/installation /docs/use/download/download
+/docs/installation/installation/ /docs/use/download/download
+
+# Misc stale paths
+/docs /docs/use/
+/docs/use/download /docs/use/download/download
+/docs/default_repositories /docs/use/repositories/dashboard
+/docs/faq/beta /docs/faq
