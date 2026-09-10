@@ -1,4 +1,4 @@
----
+0101010101---
 title: User documentation
 description: 'Everything HACS for users.'
 ---
